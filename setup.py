@@ -40,7 +40,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9"
     ],
-    python_requires='>=3.7',
+    python_requires='>=3.6',
     install_requires=[
         "numba",
         "numpy",
